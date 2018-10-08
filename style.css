@@ -99,16 +99,6 @@ header nav{
 	font-size: 20px;
 }
 
-.right {
-	float: left;
-	padding:5px;
-}
-
-.left{
-	float: right;
-	padding:5px;
-}
-
 
 footer {
   background:#3a5c72;
